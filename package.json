@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git@github.com:hswolff/hn-ng2.git"
+    "url": "git@github.com:shmiko/hn-ng2.git"
   },
   "engines": {
     "node": ">=0.12.0"
